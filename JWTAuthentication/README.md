@@ -217,18 +217,6 @@ ValidAudience = "your-audience"
 3. Make your changes
 4. Add tests if applicable
 5. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🐛 Issues
-
-If you encounter any issues or have questions, please:
-1. Check existing issues
-2. Create a new issue with detailed description
-3. Include steps to reproduce the problem
-
 ---
 
 **Built with ❤️ using ASP.NET Core 8.0**
