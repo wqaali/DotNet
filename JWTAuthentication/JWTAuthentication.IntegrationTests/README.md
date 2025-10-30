@@ -134,3 +134,5 @@ The tests use a separate configuration file (`appsettings.Test.json`) with:
 5. **Extend tests** when you add database integration
 
 This integration testing setup provides a solid foundation for ensuring your JWT Authentication API works correctly and reliably in production.
+
+
